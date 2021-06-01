@@ -1,0 +1,26 @@
+{
+  "name": "tp_dhheroes",
+  "version": "1.0.0",
+  "description": "trabajo practico n4 \u001b[D\u001b[Dr 4\u001b[C",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanDeGiorgi/tp_dhHeroes.git"
+  },
+  "keywords": [
+    "tp"
+  ],
+  "author": "juan De Giorgi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanDeGiorgi/tp_dhHeroes/issues"
+  },
+  "homepage": "https://github.com/juanDeGiorgi/tp_dhHeroes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
