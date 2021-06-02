@@ -16,6 +16,7 @@
     top: 20px;
     padding-left: 40px;
     font-size: 50px;
+    text-decoration: none;
 }
 
 li{
@@ -23,7 +24,7 @@ li{
 }
 .b-menu{
     position: relative;
-    left: 400px;
+    left: 340px;
     bottom: 15px;
     font-size: 20px;
     margin: 0px 10px 0px;
